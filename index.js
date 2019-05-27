@@ -1,1 +1,1 @@
-module.exports = props => `Your height is ${props.heightInMeter} meter and ${props.heightInMeter * 3.281}`;
+module.exports = props => `Your height is ${props.heightInMeter} meter and ${props.heightInMeter * 3.281} inches`;
